@@ -11,8 +11,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![GSAP](https://img.shields.io/badge/GSAP-3.12-88CE02?style=flat-square&logo=greensock)](https://greensock.com/gsap/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square&logo=vercel)](https://cosmic-calendar-livid.vercel.app/)
 
-[Live Demo](#) · [Report Bug](https://github.com/Abhishekkrvr/Cosmic-Calendar/issues) · [Request Feature](https://github.com/Abhishekkrvr/Cosmic-Calendar/issues)
+[🚀 Live Demo](https://cosmic-calendar-livid.vercel.app/) · [Report Bug](https://github.com/Abhishekkrvr/Cosmic-Calendar/issues) · [Request Feature](https://github.com/Abhishekkrvr/Cosmic-Calendar/issues)
 
 </div>
 
